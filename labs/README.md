@@ -1,6 +1,6 @@
 # Hands-on labs
 
-Done in the `SOLTICK` domain (Server 2022 DC + Win10/11 client).
+Done in the `salnoct` domain (Server 2022 DC + Win10/11 client).
 
 | # | Lab |
 |---|-----|
