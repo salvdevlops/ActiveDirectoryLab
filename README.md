@@ -87,7 +87,7 @@ Once installation completes, click **Promote this server to a domain controller*
 
 In the new window, select **Add a new forest** and enter a domain name. Since this is a home lab, avoid using a real domain name — something like `homelab.local` works well.
 
-> Double-check your spelling here. A small typo (e.g. `.lcoal` instead of `.local`) can be a real pain to fix later.
+> Double-check your spelling here. A small typo such as `.lcoal` instead of `.local` can be a real pain to fix later.
 
 <img width="757" height="547" alt="New forest domain name" src="https://github.com/user-attachments/assets/285273d9-e4eb-4fd8-9710-81ea8749ff9d" />
 
