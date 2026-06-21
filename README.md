@@ -23,7 +23,7 @@ This project documents my initial Windows Server installation and the steps I to
 
 Diagram showing what I'll be doing in this first lab:
 
-*(insert architecture/flow diagram here)*
+*(insert flow diagram here)*
 
 ---
 
