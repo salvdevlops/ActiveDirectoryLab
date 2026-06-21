@@ -59,7 +59,7 @@ Go to **Settings > Windows Update** and make sure the server is fully up to date
 
 ## Step 3: Enable Remote Management
 
-Remote management is important for servers so you can manage them without logging in directly — you can administer the server from any computer on the network. This also mirrors real-world practice.
+Remote management is important for servers so you can manage them without logging in directly — you can administer the server from any computer on the network.
 
 To enable it, open **Server Manager**, click **Local Server** in the left-hand pane, and confirm Remote Management is enabled.
 
@@ -75,7 +75,7 @@ Open **Server Manager**, click **Add roles and features** in the top right, and 
 
 Click **Next** until you reach **Install**.
 
-> Don't close the wizard once installation finishes — the next step (promoting the server to a domain controller) follows immediately from this window.
+> Don't close the wizard once installation finishes — the next step (promoting the server to a domain controller) appears affter.
 
 ---
 
