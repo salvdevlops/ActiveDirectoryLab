@@ -61,7 +61,7 @@ Go to **Settings > Windows Update** and make sure the server is fully up to date
 
 Remote management is important for servers so you can manage them without logging in directly — you can administer the server from any computer on the network. This also mirrors real-world practice.
 
-To enable it, open **Server Manager**, click **Local Server** in the left-hand pane, and confirm Remote Management is enabled. If it isn't, click the setting and enable it.
+To enable it, open **Server Manager**, click **Local Server** in the left-hand pane, and confirm Remote Management is enabled.
 
 <img width="226" height="16" alt="Remote management enabled" src="https://github.com/user-attachments/assets/dabfa4c7-9f5a-4582-b1f5-09ca618927d5" />
 
